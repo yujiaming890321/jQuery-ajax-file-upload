@@ -1,20 +1,23 @@
 {
-  "name": "yujiaming-jquery-ajax-file-upload",
-  "version": "1.0.0",
-  "description": "This plugin uploads the file somehwere, and passes the response to a callback, nothing else.",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yujiaming890321/jQuery-ajax-file-upload.git"
-  },
-  "keywords": [],
-  "author": "yujiaming",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/yujiaming890321/jQuery-ajax-file-upload/issues"
-  },
-  "homepage": "https://github.com/yujiaming890321/jQuery-ajax-file-upload",
-  "main": "index.js"
+    "name": "yujiaming-jquery-ajax-file-upload",
+    "version": "2.0.0",
+    "description":
+        "This plugin uploads the file somehwere, and passes the response to a callback, nothing else.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url":
+            "git+https://github.com/yujiaming890321/jQuery-ajax-file-upload.git"
+    },
+    "keywords": [],
+    "author": "yujiaming",
+    "license": "ISC",
+    "bugs": {
+        "url":
+            "https://github.com/yujiaming890321/jQuery-ajax-file-upload/issues"
+    },
+    "homepage": "https://github.com/yujiaming890321/jQuery-ajax-file-upload",
+    "main": "index.js"
 }
