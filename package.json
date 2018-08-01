@@ -1,5 +1,5 @@
 {
-  "name": "jquery-ajax-file-upload",
+  "name": "jQuery-ajax-file-upload",
   "version": "1.0.0",
   "description": "This plugin uploads the file somehwere, and passes the response to a callback, nothing else.",
   "scripts": {
@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yujiaming890321/jquery-ajax-file-upload.git"
+    "url": "git+https://github.com/yujiaming890321/jQuery-ajax-file-upload.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yujiaming890321/jquery-ajax-file-upload/issues"
+    "url": "https://github.com/yujiaming890321/jQuery-ajax-file-upload/issues"
   },
-  "homepage": "https://github.com/yujiaming890321/jquery-ajax-file-upload",
+  "homepage": "https://github.com/yujiaming890321/jQuery-ajax-file-upload",
   "main": "index.js",
 }
