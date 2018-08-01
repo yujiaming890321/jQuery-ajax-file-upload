@@ -1,4 +1,4 @@
-jQuery.extend({
+$.extend({
     createUploadIframe: function(id, uri) {
         //create frame
         var frameId = "jUploadFrame" + id;
