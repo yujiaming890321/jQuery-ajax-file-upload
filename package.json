@@ -1,6 +1,6 @@
 {
     "name": "yujiaming-jquery-ajax-file-upload",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "description":
         "This plugin uploads the file somehwere, and passes the response to a callback, nothing else.",
     "scripts": {
