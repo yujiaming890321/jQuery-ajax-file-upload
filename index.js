@@ -55,7 +55,7 @@ $.extend({
         if (typeof fileElementId == "string") {
             fileElementId = [fileElementId];
         }
-        for (var i in fileElementId) {
+        for (var i = 0; i < fileElementId.length; i++) {
             var oldElement = jQuery("#" + fileElementId[i]);
             var newElement = jQuery(oldElement).clone(true, true);
             jQuery(oldElement).attr("id", fileId);
